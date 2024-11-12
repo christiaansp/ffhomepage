@@ -8,3 +8,4 @@ To customize bookmarks open up index.html and head to <div class="bookmarks"> an
 If you want to customize the wallpaper, just replace wallpaper.png with an image of your choice.
 
 # Enjoy!
+[[/Preview.png|ALT TEXT]]
