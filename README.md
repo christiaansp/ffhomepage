@@ -8,4 +8,4 @@ To customize bookmarks open up index.html and head to <div class="bookmarks"> an
 If you want to customize the wallpaper, just replace wallpaper.png with an image of your choice.
 
 # Enjoy!
-[[https://github.com/christiaansp/ffhomepage/blob/master/Preview.png|alt=hi]]
+![image](https://github.com/user-attachments/assets/6649f4a8-3991-4723-b6ce-6ebd6ea52cd8)
